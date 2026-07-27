@@ -13,8 +13,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/akxyverse/content-studio?style=for-the-badge&color=0A66C2&label=size)
 ![Stars](https://img.shields.io/github/stars/akxyverse/content-studio?style=for-the-badge&color=a8d3ff)
 
-### Learning in public only works if the "public" part happens.
-### Posts, articles, tutorials, and visual assets — drafted, stored, and shipped from one studio.
+### 🎬 A Production Studio, Not a Drafts Folder
+### Learning in public only works if the "public" part actually happens.
 
 </div>
 
@@ -26,7 +26,7 @@
 
 **🧭 What**
 
-Every post, article, tutorial, and visual asset I create.
+Every post, article, tutorial, and visual asset I create — start to finish.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -78,61 +78,66 @@ A repeatable idea → draft → publish structure you can copy.
 
 ---
 
-## 🗂 Content Categories
+## 🎞️ The Production Pipeline
+
+*Every piece of content moves through the same four stages — like a real editorial workflow.*
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" align="center" valign="top">
 
-**💼 [LinkedIn Posts](<./LinkedIn Posts>)**
-Drafts and published content
+### 1️⃣ Idea
+📥 [`Content Ideas`](<./Content Ideas>)
 
-**🐙 [GitHub Content](<./GitHub Content>)**
-Profile README, repo write-ups
-
-**📰 [Articles](./Articles)**
-Long-form articles
+Backlog of raw ideas, unfiltered
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" align="center" valign="top">
 
-**✍️ [Blogs](./Blogs)**
-Blog posts written
+### 2️⃣ Draft
+📝 [`LinkedIn Posts`](<./LinkedIn Posts>) · [`Articles`](./Articles) · [`Blogs`](./Blogs) · [`Tutorials`](./Tutorials)
 
-**🎓 [Tutorials](./Tutorials)**
-Tutorials created for others
-
-**💡 [Content Ideas](<./Content Ideas>)**
-Backlog of ideas
+Using [`Content Templates`](<./Content Templates>) as the starting structure
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" align="center" valign="top">
 
-**🖼️ [Images](./Images)**
-Supporting images
+### 3️⃣ Visual
+🎨 [`Images`](./Images) · [`Banners`](./Banners) · [`Thumbnails`](./Thumbnails)
 
-**🎨 [Banners](./Banners)**
-Banner graphics
+Built with the ecosystem's shared visual language
 
-**🔖 [Thumbnails](./Thumbnails)**
-Thumbnail graphics
+</td>
+<td width="25%" align="center" valign="top">
 
-**📐 [Content Templates](<./Content Templates>)**
-Reusable templates
+### 4️⃣ Publish
+🚀 [`GitHub Content`](<./GitHub Content>)
+
+Ships to LinkedIn, GitHub, or wherever it's meant for
 
 </td>
 </tr>
 </table>
 
+## 🎙️ Studio Equipment (Content Formats)
+
+| Format | Folder | Purpose |
+|---|---|---|
+| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Short-form, platform-native |
+| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives |
+| ✍️ Blogs | [`Blogs`](./Blogs) | Narrative, personal-voice pieces |
+| 🎓 Tutorials | [`Tutorials`](./Tutorials) | Step-by-step, teaching-focused |
+| 🐙 GitHub Content | [`GitHub Content`](<./GitHub Content>) | Profile README drafts, repo write-ups |
+
 ## 🎯 How to Use This Repository
 
-1. **Got an idea?** It starts in [`Content Ideas`](<./Content Ideas>) before anything gets drafted.
-2. **Writing something?** Pick the format and use [`Content Templates`](<./Content Templates>) as a starting structure.
-3. **Need visuals?** [`Banners`](./Banners), [`Thumbnails`](./Thumbnails), and [`Images`](./Images) hold the graphics, built with this ecosystem's visual language.
+1. **Got an idea?** It starts in [`Content Ideas`](<./Content Ideas>) before anything gets drafted — nothing skips the pipeline.
+2. **Writing something?** Pick the format from Studio Equipment above, use [`Content Templates`](<./Content Templates>) as the starting structure.
+3. **Need visuals?** [`Banners`](./Banners), [`Thumbnails`](./Thumbnails), and [`Images`](./Images) hold the graphics — same brand language as every banner across this ecosystem.
 
 ## 🟢 Status
 
-⚪ Not Started — first entries planned alongside the first shipped project.
+⚪ Not Started — the studio is built; the pipeline runs empty until the first piece moves through it. First entries planned alongside the first shipped project in [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects).
 
 ## ➡️ Recommended Next Repository
 
