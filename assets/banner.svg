@@ -13,50 +13,38 @@
       <stop offset="0%" stop-color="#0A66C2"/>
       <stop offset="100%" stop-color="#70b5f9"/>
     </linearGradient>
-    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#004182"/>
-      <stop offset="100%" stop-color="#a8d3ff"/>
-    </linearGradient>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
   <rect width="1200" height="320" fill="url(#glow)"/>
 
-  <g stroke="#0A66C2" stroke-width="1" opacity="0.35">
-    <line x1="880" y1="50" x2="960" y2="30"/>
-    <line x1="960" y1="30" x2="1040" y2="70"/>
-    <line x1="960" y1="30" x2="1000" y2="110"/>
-    <line x1="1040" y1="70" x2="1110" y2="45"/>
-    <line x1="1000" y1="110" x2="1080" y2="130"/>
-  </g>
-  <g fill="#70b5f9" opacity="0.6">
-    <circle cx="880" cy="50" r="4"/>
-    <circle cx="960" cy="30" r="5"/>
-    <circle cx="1040" cy="70" r="4"/>
-    <circle cx="1000" cy="110" r="4"/>
-    <circle cx="1110" cy="45" r="3.5"/>
-    <circle cx="1080" cy="130" r="3.5"/>
-  </g>
-
-  <g fill="#0A66C2" opacity="0.10">
+  <g fill="#0A66C2" opacity="0.08">
     <circle cx="60" cy="40" r="2.2"/><circle cx="100" cy="40" r="2.2"/><circle cx="140" cy="40" r="2.2"/>
     <circle cx="60" cy="70" r="2.2"/><circle cx="100" cy="70" r="2.2"/><circle cx="140" cy="70" r="2.2"/>
   </g>
 
-  <text x="1030" y="270" font-family="Consolas, Menlo, monospace" font-size="64" fill="#0A66C2" opacity="0.12">&#9998;</text>
-
-  <polyline points="70,240 160,215 250,230 340,180 430,195 520,150 610,165"
-    fill="none" stroke="#a8d3ff" stroke-width="2.5" opacity="0.55"/>
-  <g fill="#a8d3ff" opacity="0.75">
-    <circle cx="70" cy="240" r="3"/><circle cx="160" cy="215" r="3"/><circle cx="250" cy="230" r="3"/>
-    <circle cx="340" cy="180" r="3"/><circle cx="430" cy="195" r="3"/><circle cx="520" cy="150" r="3"/><circle cx="610" cy="165" r="3.5"/>
+  <!-- LinkedIn-style post card -->
+  <g transform="translate(870,60)">
+    <rect x="0" y="0" width="220" height="150" rx="10" fill="#0a2a4a" stroke="#0A66C2" stroke-width="1.5"/>
+    <circle cx="30" cy="30" r="14" fill="#0A66C2"/>
+    <circle cx="30" cy="30" r="14" fill="none" stroke="#70b5f9" stroke-width="1.5"/>
+    <line x1="54" y1="24" x2="120" y2="24" stroke="#a8d3ff" stroke-width="3"/>
+    <line x1="54" y1="38" x2="100" y2="38" stroke="#70b5f9" stroke-width="2" opacity="0.7"/>
+    <line x1="16" y1="60" x2="204" y2="60" stroke="#0A66C2" stroke-width="1.5" opacity="0.5"/>
+    <line x1="16" y1="76" x2="204" y2="76" stroke="#0A66C2" stroke-width="1.5" opacity="0.4"/>
+    <line x1="16" y1="92" x2="150" y2="92" stroke="#0A66C2" stroke-width="1.5" opacity="0.4"/>
+    <!-- like / comment / repost row -->
+    <g transform="translate(16,116)" fill="#70b5f9" opacity="0.85">
+      <path d="M0,10 a10,10 0 1 1 12,0 l-6,7 z"/>
+      <rect x="40" y="2" width="16" height="14" rx="3" fill="none" stroke="#70b5f9" stroke-width="2"/>
+      <path d="M90,2 h16 v6 l6,-6 M90,10 h16" fill="none" stroke="#70b5f9" stroke-width="2"/>
+    </g>
   </g>
 
-  <g transform="translate(70,150)">
-    <rect x="0"  y="45" width="13" height="45" rx="2" fill="url(#barGrad)"/>
-    <rect x="19" y="25" width="13" height="65" rx="2" fill="url(#barGrad)"/>
-    <rect x="38" y="55" width="13" height="35" rx="2" fill="url(#barGrad)"/>
-    <rect x="57" y="10" width="13" height="80" rx="2" fill="url(#barGrad)"/>
+  <!-- creator pen mark -->
+  <g transform="translate(1120,45) rotate(35)">
+    <rect x="-6" y="0" width="12" height="70" rx="4" fill="#a8d3ff"/>
+    <polygon points="-6,70 6,70 0,90" fill="#f8fafc"/>
   </g>
 
   <text x="150" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">
@@ -67,7 +55,7 @@
     LinkedIn Posts &#8226; Articles &#8226; Tutorials &#8226; Visual Assets
   </text>
   <text x="150" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#70b5f9">
-    Learning in public — part of the Akxyverse Data Analytics ecosystem
+    Learning in public, one post at a time
   </text>
 
   <text x="1130" y="295" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#4f7aa6">
