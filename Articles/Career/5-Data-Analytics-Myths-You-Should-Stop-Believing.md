@@ -1,5 +1,18 @@
 # 5 Data Analytics Myths You Should Stop Believing
 
+> 📅 Published: July 2026
+> ⏱ Reading Time: 3 min
+> 🎯 Level: Beginner
+> 🏷 Category: Career
+> 💼 Relevant Roles: Aspiring Data Analysts, career switchers
+> 📚 Related Guide: [Excel Syllabus Notebook](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Syllabus%20Notebook)
+
+## 📌 Key Takeaways
+
+✔ Excel + SQL take you further than most beginners assume — Python/ML aren't prerequisites
+✔ Projects beat certificates as proof of skill
+✔ Dashboards aren't the deliverable — the insight they communicate is
+
 ## Overview
 
 The internet is full of advice about breaking into data analytics. Some of it is genuinely useful. A lot of it just creates confusion and makes the field feel more gatekept than it actually is. This article breaks down five of the most common myths — and what's actually true instead.

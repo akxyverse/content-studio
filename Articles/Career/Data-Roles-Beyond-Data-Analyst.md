@@ -1,5 +1,18 @@
 # Different Data Jobs, Different Impact
 
+> 📅 Published: July 2026
+> ⏱ Reading Time: 4 min
+> 🎯 Level: Beginner
+> 🏷 Category: Career
+> 💼 Relevant Roles: Data Analyst, Data Scientist, BI Analyst, Data Engineer, Data Architect
+> 📚 Related Guide: [Data Analyst Workflow Guidebook](https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics/Guidebooks/Data%20Analyst%20Workflow%20Guidebook)
+
+## 📌 Key Takeaways
+
+✔ "Data Analyst," "Data Scientist," "BI Analyst," "Data Engineer," and "Data Architect" are five distinct roles, not interchangeable titles
+✔ Each has a different focus, skill set, and tool stack — pick a role before trying to learn everything
+✔ Every role's mission is the same: turn data into better decisions, just via different work
+
 ## Overview
 
 "Data Analyst" gets used as a catch-all for anyone who works with data, but the field actually splits into several distinct roles with different focuses, skills, and outputs. This article breaks down five of them side by side, so you can figure out which path actually fits you instead of guessing.

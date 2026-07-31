@@ -1,5 +1,18 @@
 # Data Analyst Job Roles Across Different Industries
 
+> 📅 Published: July 2026
+> ⏱ Reading Time: 4 min
+> 🎯 Level: Beginner
+> 🏷 Category: Career
+> 💼 Relevant Roles: Data Analyst, anyone choosing an industry to specialize in
+> 📚 Related Guide: [Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide)
+
+## 📌 Key Takeaways
+
+✔ Data Analyst roles exist in nearly every industry, not just IT/tech
+✔ The tool stack (Excel, SQL, Python, Power BI, Tableau) stays largely consistent across industries — the business problems don't
+✔ Picking a target industry is as important a decision as picking which tools to learn
+
 ## Overview
 
 "Data Analyst" doesn't mean IT. Every industry generates data, and every industry needs people who can turn that data into better decisions. This article maps out 12 industries, the specific analyst roles inside each one, and real companies that hire for them.

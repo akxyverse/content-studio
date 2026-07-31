@@ -1,5 +1,18 @@
 # Will AI Replace Data Analysts?
 
+> 📅 Published: July 2026
+> ⏱ Reading Time: 3 min
+> 🎯 Level: Beginner → Intermediate
+> 🏷 Category: Career
+> 💼 Relevant Roles: Data Analyst, BI Analyst, anyone entering analytics
+> 📚 Related Guide: [Data Analyst Workflow Guidebook](https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics/Guidebooks/Data%20Analyst%20Workflow%20Guidebook)
+
+## 📌 Key Takeaways
+
+✔ AI won't replace Data Analysts — Data Analysts who use AI well will replace those who don't
+✔ AI is strong at execution (cleaning, querying, dashboards); humans are still required for judgment (context, strategy, trust)
+✔ The fundamentals (Excel, SQL) still come before AI tools in the learning order, not after
+
 ## Overview
 
 AI tools can now clean data, write SQL, and build dashboards in seconds. That's a real shift — and a reasonable thing to be nervous about if data analysis is your career. This article looks at what AI actually replaces, what it doesn't, and what that means for how you should be spending your learning time right now.
