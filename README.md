@@ -123,21 +123,24 @@ Ships to LinkedIn, GitHub, or wherever it's meant for
 
 | Format | Folder | Purpose |
 |---|---|---|
-| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Short-form, platform-native |
-| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives |
+| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Short-form, platform-native drafts and staging only — not a permanent archive |
+| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives, organized by subject. This is where a piece lives once it's finished, not just drafted |
 | ✍️ Blogs | [`Blogs`](./Blogs) | Narrative, personal-voice pieces |
 | 🎓 Tutorials | [`Tutorials`](./Tutorials) | Step-by-step, teaching-focused |
 | 🐙 GitHub Content | [`GitHub Content`](<./GitHub Content>) | Profile README drafts, repo write-ups |
+
+**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is for content still being drafted or staged before it ships. Once a post is published and expanded into a proper knowledge piece, it belongs in `Articles/<Subject>/` instead — substantially rewritten, not a copy of the LinkedIn text, with the original graphics included. `LinkedIn Posts/` is never the permanent home for finished content.
 
 ## 🎯 How to Use This Repository
 
 1. **Got an idea?** It starts in [`Content Ideas`](<./Content Ideas>) before anything gets drafted — nothing skips the pipeline.
 2. **Writing something?** Pick the format from Studio Equipment above, use [`Content Templates`](<./Content Templates>) as the starting structure.
 3. **Need visuals?** [`Banners`](./Banners), [`Thumbnails`](./Thumbnails), and [`Images`](./Images) hold the graphics — same brand language as every banner across this ecosystem.
+4. **Looking for finished knowledge articles?** Go straight to [`Articles`](./Articles) — organized by subject, not by which platform they started on.
 
 ## 🟢 Status
 
-⚪ Not Started — the studio is built; the pipeline runs empty until the first piece moves through it. First entries planned alongside the first shipped project in [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects).
+🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
 
 ## ➡️ Recommended Next Repository
 
