@@ -2,11 +2,15 @@
 
 # 🚀 LinkedIn Content Library
 
-**Every LinkedIn post I've published as part of my Data Analytics journey — one flat, growing list, not a set of categories that need constant upkeep.**
+**Every LinkedIn post I've published as part of my Data Analytics journey, archived here as a self-contained mini-project — not a screenshot dump.**
 
 </div>
 
 <br>
+
+## ✨ About the Library
+
+Every post gets its own folder in [`Published Posts/`](<./Published Posts>) — the original text, the live URL, a thumbnail, and structured metadata, plus documentation that explains the project rather than just repeating the post.
 
 ## 📈 At a Glance
 
@@ -20,45 +24,39 @@
 
 ---
 
-## 📂 Published Posts
+## 🔥 Latest Published
 
-Newest first.
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./Published Posts/HR Dashboard>"><img src="./Published Posts/HR Dashboard/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
 
-➜ **[HR Dashboard (Excel)](<./Published Posts/HR Dashboard>)**
-<br>Interactive Excel dashboard turning employee salary data into decision-ready KPIs — payroll, headcount, salary range, filterable by department and city.
+**📊 HR Dashboard — Microsoft Excel**
 
-➜ **[Data Analyst Workflow](<./Published Posts/Data Analyst Workflow>)**
-<br>Visual guide to the complete 8-step Data Analyst workflow — Ask → Pull → Clean → Explore → Analyze → Visualize → Interpret → Communicate.
+Interactive Excel dashboard turning employee salary data into decision-ready KPIs — payroll, headcount, salary range, filterable by department and city.
 
-➜ **[Excel Ultimate Guidebook](<./Published Posts/Excel Ultimate Guidebook>)**
-<br>21-page handwritten-style guide, Excel basics through AI features (Copilot, Analyze Data).
+➜ **[View Documentation](<./Published Posts/HR Dashboard>)**
+➜ **[View LinkedIn Post ↗](https://www.linkedin.com/posts/akash-yadav-122a75288_dataanalytics-microsoftexcel-exceldashboard-activity-7489784053198475264-thx-)**
 
-➜ **[Excel Syllabus](<./Published Posts/Excel Syllabus>)**
-<br>38-page handwritten Excel syllabus — a personal structured self-study checklist, basics through VBA & dynamic arrays.
+</td>
+</tr>
+</table>
 
-➜ **[Excel Roadmap Guide](<./Published Posts/Excel Roadmap Guide>)**
-<br>6-page structured Excel roadmap — what to learn next, not just what to learn.
+---
 
-➜ **[AI and the Future of Data Analysts](<./Published Posts/AI and the Future of Data Analysts>)**
-<br>AI won't replace Data Analysts — but analysts who use AI will outperform those who don't.
+## 📂 Library Structure
 
-➜ **[Data Analyst Careers Across 12 Industries](<./Published Posts/Data Analyst Careers Across 12 Industries>)**
-<br>Where you can actually build a Data Analyst career — from Banking to Government, 12 industries mapped.
+Every post lives in [`Published Posts/`](<./Published Posts>), one folder per post, named for what it is — not when it was published. Publish date is metadata, not navigation.
 
-➜ **[Data Roles Beyond Data Analyst](<./Published Posts/Data Roles Beyond Data Analyst>)**
-<br>Data Analyst, BI Analyst, Data Scientist, Data Engineer, Data Architect — 5 roles, 5 different jobs.
+```
+Published Posts/
+├── HR Dashboard/
+├── Excel Ultimate Guidebook/
+├── Excel Syllabus/
+└── ...
+```
 
-➜ **[Day 02 — Excel Functions](<./Published Posts/Day 02 - Excel Functions>)**
-<br>10 core Excel functions practiced — SUM through XLOOKUP and INDEX+MATCH.
-
-➜ **[5 Data Analytics Myths You Should Stop Believing](<./Published Posts/5 Data Analytics Myths You Should Stop Believing>)**
-<br>Excel + SQL go further than you think. Projects beat certificates.
-
-➜ **[Data Analyst Learning Roadmap](<./Published Posts/Data Analyst Learning Roadmap>)**
-<br>A practical, ordered learning path — Excel → SQL → Python → BI tools → Statistics → Projects.
-
-➜ **[The Data Analytics Journey](<./Published Posts/The Data Analytics Journey>)**
-<br>What Data Analytics actually is — the 5-step journey from raw data to better decisions.
+Browsing the folder directly on GitHub only shows bare names in alphabetical order — for the full list sorted newest-first, with category and tool for each entry, see **[`INDEX.md`](./INDEX.md)**.
 
 ---
 
@@ -68,27 +66,13 @@ Newest first.
 
 ---
 
-## 🔍 Repository Structure
-
-Every post in `Published Posts/` has:
-
-```
-README.md
-linkedin-post.md
-linkedin-url.txt
-thumbnail.jpg
-metadata.json
-hashtags.md
-Source Files/   (only if applicable)
-```
-
-Full chronological table: [`INDEX.md`](./INDEX.md) · Templates & contributor notes: [`Templates/README.md`](<./Templates/README.md>)
-
----
-
-## 🤝 Connect
+## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akxyverse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+
+⭐ If this archive helped you, consider giving the repository a star.
+
+<sub>Every post in `Published Posts/` has: `README.md` · `linkedin-post.md` · `linkedin-url.txt` · `thumbnail.jpg` · `metadata.json` · `hashtags.md` · `Source Files/` (only if applicable). Templates & contributor notes: [`Templates/README.md`](<./Templates/README.md>)</sub>
 
 ---
 
