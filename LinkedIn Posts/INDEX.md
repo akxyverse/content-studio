@@ -6,9 +6,9 @@ Chronological index of every post archived in this folder. Newest first.
 
 ### August
 
-| Date | Post | Category |
-|---|---|---|
-| 03 | [HR Dashboard](<./2026/08-August/2026-08-03_HR-Dashboard-Excel>) | Excel Dashboard |
+| Date | Post | Category | Tool | Status |
+|---|---|---|---|---|
+| 03 | [HR Dashboard](<./2026/08-August/2026-08-03_HR-Dashboard-Excel>) | Dashboard | Excel | Published |
 
 ---
 

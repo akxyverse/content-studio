@@ -11,15 +11,15 @@ manual spreadsheet filtering.
 
 | File | What it is |
 |---|---|
-| [`dashboard.jpg`](./dashboard.jpg) | Screenshot of the finished dashboard |
+| [`thumbnail.jpg`](./thumbnail.jpg) | Screenshot of the finished dashboard |
 | [`linkedin-post.md`](./linkedin-post.md) | Full original post text |
 | [`linkedin-url.txt`](./linkedin-url.txt) | Link to the live LinkedIn post |
 | [`hashtags.md`](./hashtags.md) | Hashtags used on the post |
 | [`metadata.json`](./metadata.json) | Structured metadata (title, date, tags) |
 
-> No source `.xlsx` file or dataset is included — the original workbook wasn't
-> provided when this entry was created. If you want it archived here too,
-> the file just needs to be added.
+> No `Source Files/` folder yet — the original `.xlsx` workbook and dataset
+> weren't provided when this entry was created. If you want them archived
+> here too, they just need to be added.
 
 ## Key Insights
 
@@ -31,6 +31,12 @@ manual spreadsheet filtering.
 
 Pivot Tables & Pivot Charts · KPI Cards · Slicers · Conditional Formatting ·
 Dashboard Design · Data Visualization · Business Reporting
+
+## Version History
+
+| Version | Date | Notes |
+|---|---|---|
+| v1.0 | 2026-08-03 | Initial LinkedIn publication |
 
 ---
 

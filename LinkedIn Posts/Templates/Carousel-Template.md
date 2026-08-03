@@ -14,8 +14,19 @@
 | `hashtags.md` | Hashtags used |
 | `metadata.json` | Structured metadata |
 
+<!-- Omit any row above with nothing genuine behind it — don't fabricate a file or link that doesn't exist. -->
+
 ## Slide Summary
 
 1. <Slide 1 topic>
 2. <Slide 2 topic>
 
+## Related Content
+
+<!-- Only list posts/articles that actually exist in this archive. Omit this section entirely if there's nothing genuine to link yet. -->
+
+## Version History
+
+| Version | Date | Notes |
+|---|---|---|
+| v1.0 | YYYY-MM-DD | Initial LinkedIn publication |
