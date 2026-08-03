@@ -35,7 +35,7 @@ None — this post has no separate project repository.
 
 ## Related Content
 
-[5 Data Analytics Myths You Should Stop Believing](<../../../../Articles/Career/5-Data-Analytics-Myths-You-Should-Stop-Believing.md>) — the expanded article version of this post
+[5 Data Analytics Myths You Should Stop Believing](<../../../Articles/Career/5-Data-Analytics-Myths-You-Should-Stop-Believing.md>) — the expanded article version of this post
 
 ## Version History
 
@@ -45,4 +45,4 @@ None — this post has no separate project repository.
 
 ---
 
-[← Back to LinkedIn Posts index](../../../INDEX.md)
+[← Back to LinkedIn Posts index](../../INDEX.md)

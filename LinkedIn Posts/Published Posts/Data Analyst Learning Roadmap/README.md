@@ -45,4 +45,4 @@ None yet.
 
 ---
 
-[← Back to LinkedIn Posts index](../../../INDEX.md)
+[← Back to LinkedIn Posts index](../../INDEX.md)

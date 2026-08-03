@@ -35,7 +35,7 @@ None — this post has no separate project repository.
 
 ## Related Content
 
-[AI and the Future of Data Analysts](<../../../../Articles/Career/AI-and-the-Future-of-Data-Analysts.md>) — the expanded article version of this post
+[AI and the Future of Data Analysts](<../../../Articles/Career/AI-and-the-Future-of-Data-Analysts.md>) — the expanded article version of this post
 
 ## Version History
 
@@ -45,4 +45,4 @@ None — this post has no separate project repository.
 
 ---
 
-[← Back to LinkedIn Posts index](../../../INDEX.md)
+[← Back to LinkedIn Posts index](../../INDEX.md)

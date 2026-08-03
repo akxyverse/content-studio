@@ -86,14 +86,14 @@ A repeatable idea → draft → publish structure you can copy.
 
 **📊 HR Dashboard**
 <br>Excel dashboard turning employee salary data into decision-ready KPIs.
-<br>[View →](<./LinkedIn Posts/2026/08-August/2026-08-03_HR-Dashboard-Excel>)
+<br>[View →](<./LinkedIn Posts/Published Posts/HR Dashboard>)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **📗 Excel Ultimate Guidebook**
 <br>21-page handwritten-style guide, Excel basics through AI features.
-<br>[View →](<./LinkedIn Posts/2026/07-July/2026-07-27_Excel-Ultimate-Guidebook>)
+<br>[View →](<./LinkedIn Posts/Published Posts/Excel Ultimate Guidebook>)
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -128,7 +128,7 @@ Full browsable gallery: **[LinkedIn Posts →](<./LinkedIn Posts>)**
 
 | What | Title | Date |
 |---|---|---|
-| LinkedIn Post | [HR Dashboard](<./LinkedIn Posts/2026/08-August/2026-08-03_HR-Dashboard-Excel>) | Aug 2026 |
+| LinkedIn Post | [HR Dashboard](<./LinkedIn Posts/Published Posts/HR Dashboard>) | Aug 2026 |
 | Article | [AI and the Future of Data Analysts](./Articles/Career/AI-and-the-Future-of-Data-Analysts.md) | Jul 2026 |
 
 ## 🗂 Repository Map

@@ -34,7 +34,7 @@ None — this post has no separate project repository.
 
 ## Related Content
 
-[Data Analyst Careers Across 12 Industries](<../../../../Articles/Career/Data-Analyst-Careers-Across-12-Industries.md>) — the expanded article version of this post
+[Data Analyst Careers Across 12 Industries](<../../../Articles/Career/Data-Analyst-Careers-Across-12-Industries.md>) — the expanded article version of this post
 
 ## Version History
 
@@ -44,4 +44,4 @@ None — this post has no separate project repository.
 
 ---
 
-[← Back to LinkedIn Posts index](../../../INDEX.md)
+[← Back to LinkedIn Posts index](../../INDEX.md)

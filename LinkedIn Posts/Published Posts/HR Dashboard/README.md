@@ -74,4 +74,4 @@ If it gets uploaded to a project repo later, this section should link there.
 
 ---
 
-[← Back to LinkedIn Posts index](../../../INDEX.md)
+[← Back to LinkedIn Posts index](../../INDEX.md)
