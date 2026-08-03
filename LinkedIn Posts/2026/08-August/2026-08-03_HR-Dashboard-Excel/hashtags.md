@@ -1,0 +1,11 @@
+#DataAnalytics
+#MicrosoftExcel
+#ExcelDashboard
+#DashboardDesign
+#DataVisualization
+#BusinessIntelligence
+#HRAnalytics
+#DataAnalyst
+#LearningInPublic
+#GitHub
+#OpenToWork

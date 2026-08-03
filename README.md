@@ -123,13 +123,13 @@ Ships to LinkedIn, GitHub, or wherever it's meant for
 
 | Format | Folder | Purpose |
 |---|---|---|
-| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Short-form, platform-native drafts and staging only — not a permanent archive |
-| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives, organized by subject. This is where a piece lives once it's finished, not just drafted |
+| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Permanent, dated archive of every published post — one self-contained mini-project per post (source file, image, post text, URL, metadata) |
+| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives, organized by subject — a curated subset of posts expanded into proper knowledge pieces |
 | ✍️ Blogs | [`Blogs`](./Blogs) | Narrative, personal-voice pieces |
 | 🎓 Tutorials | [`Tutorials`](./Tutorials) | Step-by-step, teaching-focused |
 | 🐙 GitHub Content | [`GitHub Content`](<./GitHub Content>) | Profile README drafts, repo write-ups |
 
-**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is for content still being drafted or staged before it ships. Once a post is published and expanded into a proper knowledge piece, it belongs in `Articles/<Subject>/` instead — substantially rewritten, not a copy of the LinkedIn text, with the original graphics included. `LinkedIn Posts/` is never the permanent home for finished content.
+**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is the permanent record of everything published — organized `<Year>/<Month>/<Date>_<Slug>/`, indexed in [`LinkedIn Posts/INDEX.md`](<./LinkedIn Posts/INDEX.md>), every post archived as-is. Some posts are worth more than an archive entry — those get substantially rewritten (not copied) into `Articles/<Subject>/`, with the original graphics carried over, as a deeper knowledge piece. Every article started as a LinkedIn post; not every LinkedIn post becomes an article.
 
 ## 🎯 How to Use This Repository
 
@@ -140,7 +140,7 @@ Ships to LinkedIn, GitHub, or wherever it's meant for
 
 ## 🟢 Status
 
-🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
+🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. 🟢 [`LinkedIn Posts`](<./LinkedIn Posts>) now has its permanent archive structure live, with 1 post on file (HR Dashboard, Aug 2026). Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
 
 ## ➡️ Recommended Next Repository
 
