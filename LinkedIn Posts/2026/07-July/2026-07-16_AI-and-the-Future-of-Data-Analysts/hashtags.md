@@ -1,0 +1,12 @@
+#DataAnalytics
+#AI
+#ArtificialIntelligence
+#DataAnalyst
+#PowerBI
+#SQL
+#Python
+#Excel
+#BusinessIntelligence
+#CareerGrowth
+#FutureOfWork
+#TechCareers

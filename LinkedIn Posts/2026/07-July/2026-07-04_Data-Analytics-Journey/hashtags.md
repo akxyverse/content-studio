@@ -1,0 +1,13 @@
+#DataAnalytics
+#DataScience
+#DataAnalyst
+#BusinessIntelligence
+#SQL
+#Python
+#Excel
+#PowerBI
+#Tableau
+#DataVisualization
+#ArtificialIntelligence
+#BigData
+#Analytics

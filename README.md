@@ -140,7 +140,7 @@ Ships to LinkedIn, GitHub, or wherever it's meant for
 
 ## 🟢 Status
 
-🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. 🟢 [`LinkedIn Posts`](<./LinkedIn Posts>) now has its permanent archive structure live, with 1 post on file (HR Dashboard, Aug 2026). Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
+🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. 🟢 [`LinkedIn Posts`](<./LinkedIn Posts>) has 12 posts archived (Jul–Aug 2026), spanning Career, Excel, Guidebook, and Resource content. Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
 
 ## ➡️ Recommended Next Repository
 

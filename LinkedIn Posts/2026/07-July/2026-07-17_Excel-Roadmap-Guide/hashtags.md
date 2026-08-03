@@ -1,0 +1,16 @@
+#Excel
+#MicrosoftExcel
+#DataAnalytics
+#DataAnalyst
+#SQL
+#PowerBI
+#Python
+#Tableau
+#Statistics
+#BusinessIntelligence
+#LearningInPublic
+#CareerGrowth
+#ExcelTips
+#Analytics
+#DataCommunity
+#Upskilling

@@ -1,0 +1,15 @@
+#DataAnalytics
+#DataAnalyst
+#SQL
+#Excel
+#PowerBI
+#Python
+#BusinessAnalytics
+#DataScience
+#Analytics
+#LearningInPublic
+#CareerGrowth
+#Freshers
+#LinkedInCreators
+#DataVisualization
+#DataStorytelling

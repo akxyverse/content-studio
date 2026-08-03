@@ -1,0 +1,45 @@
+# Data Roles Beyond Data Analyst
+
+![Preview](./thumbnail.jpg)
+
+**Published:** 2026-07-12 · **Platform:** LinkedIn · **Type:** Post
+
+## Overview
+
+Breaks down 5 distinct data roles and how their responsibilities actually differ, arguing against treating every data professional as "a Data Analyst."
+
+## Key Points
+
+- Data Analyst → what happened. BI Analyst → dashboards & KPIs. Data Scientist → what's likely to happen next. Data Engineer → pipelines. Data Architect → infrastructure design
+
+## Repository Contents
+
+| File | What it is |
+|---|---|
+| `thumbnail.jpg` | Preview image shared in the post |
+| `linkedin-post.md` | Full original post text |
+| `linkedin-url.txt` | Link to the live LinkedIn post |
+| `hashtags.md` | Hashtags used |
+| `metadata.json` | Structured metadata |
+
+## Related LinkedIn Post
+
+[View the published post ↑](https://www.linkedin.com/posts/akash-yadav-122a75288_dataanalytics-datascience-businessintelligence-activity-7481904200176582656-bxXW)
+
+## Related Repository
+
+None — this post has no separate project repository.
+
+## Related Content
+
+[Data Roles Beyond Data Analyst](<../../../../Articles/Career/Data-Roles-Beyond-Data-Analyst.md>) — the expanded article version of this post
+
+## Version History
+
+| Version | Date | Notes |
+|---|---|---|
+| v1.0 | 2026-07-12 | Initial LinkedIn publication |
+
+---
+
+[← Back to LinkedIn Posts index](../../../INDEX.md)

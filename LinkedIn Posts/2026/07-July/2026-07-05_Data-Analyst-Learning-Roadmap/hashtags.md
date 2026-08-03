@@ -1,0 +1,15 @@
+#DataAnalytics
+#DataAnalyst
+#SQL
+#Python
+#Excel
+#PowerBI
+#Tableau
+#MachineLearning
+#CloudComputing
+#Statistics
+#DataVisualization
+#BusinessIntelligence
+#CareerGrowth
+#LearningInPublic
+#TechCareers
