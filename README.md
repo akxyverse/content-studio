@@ -142,25 +142,21 @@ Full browsable gallery: **[LinkedIn Posts →](<./LinkedIn Posts>)**
 | 🎨 Visual | [`Images`](./Images) · [`Banners`](./Banners) · [`Thumbnails`](./Thumbnails) | Shared visual language across the ecosystem |
 | 🚀 Publish | [`GitHub Content`](<./GitHub Content>) | Ships to LinkedIn, GitHub, or wherever it's meant for |
 
-**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is the permanent record of everything published — every post archived as-is, browsable by category. Some posts are worth more than an archive entry — those get substantially rewritten (not copied) into `Articles/<Subject>/`, with the original graphics carried over, as a deeper knowledge piece. Every article started as a LinkedIn post; not every LinkedIn post becomes an article.
-
-## ➡️ Recommended Next Repository
-
-<div align="center">
-
-### 💼 [Career Hub](https://github.com/akxyverse/career-hub)
-**Turn content into career momentum.** What gets published here builds the brand Career Hub puts to work.
-
-</div>
+**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is the permanent record of everything published — every post archived as-is, in one flat, growing list. Some posts are worth more than an archive entry — those get substantially rewritten (not copied) into `Articles/<Subject>/`, with the original graphics carried over, as a deeper knowledge piece. Every article started as a LinkedIn post; not every LinkedIn post becomes an article.
 
 ---
+
+# 🤝 Connect With Me
+
+**Let's connect, collaborate, and grow together in Data Analytics.**
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+[![Email](https://img.shields.io/badge/Email-akashyadav110502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
 
-**⭐ Star this repo if the structure is useful to you.**
+**⭐ If this repository helped you, consider giving it a star.**
 
 <sub>Part of the <a href="https://github.com/akxyverse"><b>Akxyverse</b></a> Data Analytics ecosystem · MIT Licensed (published content/graphics are mine — credit appreciated) · <a href="./LICENSE">LICENSE</a></sub>
 
