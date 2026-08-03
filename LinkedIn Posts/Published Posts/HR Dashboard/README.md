@@ -13,6 +13,10 @@ single, decision-ready view — department payroll, city-wise headcount,
 salary range, and highest/lowest earners — filterable through slicers
 instead of manually digging through spreadsheets.
 
+## Why I Built This
+
+Straight from the post: *"Instead of manually filtering spreadsheets, I built a dashboard that delivers these insights in just a few clicks."*
+
 ## Business Problem
 
 HR teams often manage employee information in spreadsheets, making it slow
@@ -71,6 +75,11 @@ If it gets uploaded to a project repo later, this section should link there.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-08-03 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📚 [Excel Ultimate Guidebook](<../Excel Ultimate Guidebook>) — full Excel reference, basics to AI features
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

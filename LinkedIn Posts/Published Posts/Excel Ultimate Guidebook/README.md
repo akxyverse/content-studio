@@ -10,7 +10,19 @@
 
 A 21-page handwritten-style visual guidebook covering Excel basic-to-advanced, spanning 20 topics with real-world examples and interview-focused concepts.
 
-## Key Points
+## Why I Built This
+
+Straight from the post: *"I wanted to create a guide that is easy to understand, visually engaging, and practical for real-world work — not just another collection of notes."*
+
+## Business Problem
+
+Most Excel guides are dry reference notes — accurate, but not something you'd actually enjoy working through cover to cover.
+
+## Solution
+
+A handwritten-style visual guidebook, 20 topics structured Beginner → Intermediate → Advanced, with real-world examples and interview-focused concepts rather than just formula syntax.
+
+## Key Highlights
 
 - Covers: Excel Interface & Files, Formatting & Data Cleaning, Functions & Formulas, Charts & Data Visualization, Data Analysis Tools, VLOOKUP/XLOOKUP/INDEX-MATCH, Pivot Tables & Charts, Advanced Formulas, Power Query & Power Pivot, Dashboards, Macros & VBA, Excel Automation, AI in Excel (Copilot & Analyze Data)
 
@@ -41,6 +53,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-27 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📗 [Excel Syllabus](<../Excel Syllabus>) — 38-page structured self-study checklist
+- 📘 [Excel Roadmap Guide](<../Excel Roadmap Guide>) — 6-page what-to-learn-next roadmap
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

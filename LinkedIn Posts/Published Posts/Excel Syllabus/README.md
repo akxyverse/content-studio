@@ -10,7 +10,19 @@
 
 A 38-page handwritten-style Excel syllabus, created as a personal structured self-study checklist covering Excel end-to-end.
 
-## Key Points
+## Why I Built This
+
+Straight from the post: *"The real challenge wasn't finding resources. It was knowing what to learn first. Instead of learning random topics, I decided to create and follow a structured Excel syllabus."*
+
+## Business Problem
+
+Thousands of Excel tutorials exist, but picking one topic to start with — and what comes after — is the actual hard part for beginners.
+
+## Solution
+
+A handwritten, structured self-study checklist covering Excel end-to-end, meant to be worked through step by step rather than searched piecemeal.
+
+## Key Highlights
 
 - Covers: Excel Basics, Formulas & Functions, Logical/Text/Date Functions, Lookup Functions, Data Cleaning & Validation, Conditional Formatting, Tables/Sorting/Filtering, Pivot Tables & Charts, Interactive Dashboards, Power Query, Basic VBA & Automation, Dynamic Array Functions, Real-World Projects
 
@@ -41,6 +53,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-18 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📗 [Excel Ultimate Guidebook](<../Excel Ultimate Guidebook>) — 21-page visual guide, basics through AI features
+- 📘 [Excel Roadmap Guide](<../Excel Roadmap Guide>) — 6-page what-to-learn-next roadmap
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

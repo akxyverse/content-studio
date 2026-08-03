@@ -10,7 +10,19 @@
 
 A visual guide to the complete 8-step Data Analyst workflow, built around the idea that data doesn't create impact — decisions do.
 
-## Key Points
+## Why I Built This
+
+Straight from the post: *"Being a Data Analyst isn't about learning tools. It's about solving real business problems and turning data into meaningful decisions. That's why I created this visual guide to explain the complete Data Analyst Workflow from start to finish."*
+
+## Business Problem
+
+Most beginners think Data Analytics is just Excel → SQL → Python → Power BI → Job — a tool checklist, not a process.
+
+## Solution
+
+A visual guide walking through the actual 8-step workflow real analysts follow, from framing the right question to communicating the answer.
+
+## Key Highlights
 
 - The 8 steps: Ask → Pull → Clean → Explore → Analyze → Visualize → Interpret → Communicate
 
@@ -41,6 +53,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-28 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📊 [HR Dashboard](<../HR Dashboard>) — a real dashboard applying this workflow end to end
+- 📗 [Excel Roadmap Guide](<../Excel Roadmap Guide>) — where to start before you get to workflow
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

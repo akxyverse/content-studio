@@ -10,7 +10,15 @@
 
 Maps specific Data Analyst career paths across 12 industries, from Banking & Finance to Government & Public Sector, showing the tools stay the same but the business problems differ.
 
-## Key Points
+## Business Problem
+
+Most people think Data Analysts only work in IT — a narrow view that hides how many industries actually hire for this role.
+
+## Solution
+
+Maps concrete Data Analyst job titles across 12 industries, showing the tools (Excel, SQL, Python, Power BI, Tableau) stay the same while the business problems change.
+
+## Key Highlights
 
 - Industries covered: Banking & Finance, Retail & E-commerce, IT & Software, Healthcare & Pharma, Manufacturing, Logistics & Supply Chain, Marketing & Advertising, Telecommunications, Education, Travel & Hospitality, Energy & Utilities, Government & Public Sector
 
@@ -41,6 +49,12 @@ None — this post has no separate project repository.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-13 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📝 [Data Roles Beyond Data Analyst](<../Data Roles Beyond Data Analyst>) — the roles, not just the industries
+- 📝 [Data Analyst Learning Roadmap](<../Data Analyst Learning Roadmap>) — how to get there
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

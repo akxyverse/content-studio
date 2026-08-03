@@ -10,7 +10,15 @@
 
 Breaks down 5 distinct data roles and how their responsibilities actually differ, arguing against treating every data professional as "a Data Analyst."
 
-## Key Points
+## Business Problem
+
+One of the biggest misconceptions in tech is that every data professional does the same job — they don't, and conflating the roles makes it harder to know which one you're actually aiming for.
+
+## Solution
+
+Breaks down 5 distinct roles by what each one actually answers, using a sports-team analogy: different players, same goal.
+
+## Key Highlights
 
 - Data Analyst → what happened. BI Analyst → dashboards & KPIs. Data Scientist → what's likely to happen next. Data Engineer → pipelines. Data Architect → infrastructure design
 
@@ -41,6 +49,12 @@ None — this post has no separate project repository.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-12 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📝 [Data Analyst Careers Across 12 Industries](<../Data Analyst Careers Across 12 Industries>) — where these roles actually get hired
+- 📝 [5 Data Analytics Myths You Should Stop Believing](<../5 Data Analytics Myths You Should Stop Believing>) — more beginner misconceptions, cleared up
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

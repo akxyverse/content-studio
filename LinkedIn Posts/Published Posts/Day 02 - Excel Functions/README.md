@@ -10,9 +10,10 @@
 
 A learning-log entry practicing 10 core Excel functions, with the takeaway that knowing when to use a function matters more than knowing it exists.
 
-## Key Points
+## What I Practiced
 
-- Functions practiced: SUM, AVERAGE, COUNT, IF, COUNTIF, VLOOKUP, XLOOKUP, INDEX+MATCH, CONCAT, TEXT functions
+- Functions: SUM, AVERAGE, COUNT, IF, COUNTIF, VLOOKUP, XLOOKUP, INDEX+MATCH, CONCAT, TEXT functions
+- Takeaway, straight from the post: *"Knowing a function is helpful. Knowing when to use it is what makes you a better analyst."*
 
 > This post used the `#90DaysChallenge` hashtag on LinkedIn. The corresponding GitHub-side tracking series (a dedicated `90 Day Challenge` folder in `career-hub`) was explicitly discontinued in a later session — this entry archives the post itself, not a revival of that tracking series.
 
@@ -43,6 +44,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-10 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📗 [Excel Roadmap Guide](<../Excel Roadmap Guide>) — the structured path this practice fits into
+- 📗 [Excel Syllabus](<../Excel Syllabus>) — the fuller self-study checklist
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

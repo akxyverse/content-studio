@@ -10,7 +10,19 @@
 
 A 6-page structured Excel learning roadmap — built after realizing that a roadmap doesn't just tell you what to learn, it tells you what to learn next.
 
-## Key Points
+## Why I Built This
+
+Straight from the post: *"When I started learning Excel for Data Analytics, I made the same mistake many beginners make — watching random tutorials, jumping into advanced topics, never building a strong foundation. That's why I stopped learning randomly and started following a structured Excel roadmap."*
+
+## Business Problem
+
+Learning Excel randomly — a tutorial here, an advanced topic there — feels like progress but doesn't build a real foundation.
+
+## Solution
+
+A 6-page roadmap that sequences what to learn and, more importantly, what to learn next: basics → formulas → cleaning → lookups → formatting → pivot tables → dashboards → Power Query → real projects.
+
+## Key Highlights
 
 - Covers: Excel Basics, Formulas & Functions, Data Cleaning, Lookup Functions, Conditional Formatting, Pivot Tables & Charts, Interactive Dashboards, Power Query, Real-World Projects
 
@@ -41,6 +53,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-17 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📗 [Excel Syllabus](<../Excel Syllabus>) — 38-page structured self-study checklist
+- 📘 [Excel Ultimate Guidebook](<../Excel Ultimate Guidebook>) — 21-page visual guide, basics through AI features
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

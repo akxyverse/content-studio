@@ -10,7 +10,15 @@
 
 An introductory post on what Data Analytics actually is: the process of turning raw data into meaningful insight, laid out as a 5-step journey from collecting data through to making better decisions.
 
-## Key Points
+## Business Problem
+
+The world generates a constant stream of data, but data on its own is just raw facts — it doesn't do anything until something turns it into insight.
+
+## Solution
+
+Lays out the 5-step journey that does that turning: Collect → Clean & Prepare → Analyze Patterns → Visualize Insights → Make Better Decisions.
+
+## Key Highlights
 
 - The 5-step journey: Collect Data → Clean & Prepare → Analyze Patterns → Visualize Insights → Make Better Decisions
 - Where it's used: healthcare, retail & e-commerce, banking & finance, transportation, entertainment, sports
@@ -43,6 +51,11 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-04 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📖 [Data Analyst Learning Roadmap](<../Data Analyst Learning Roadmap>) — the concrete next step after this intro
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

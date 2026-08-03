@@ -10,7 +10,15 @@
 
 A practical, ordered learning path for becoming a Data Analyst — answering the common "should I learn Excel or Python first" question with a concrete sequence instead of a shortcut.
 
-## Key Points
+## Business Problem
+
+Beginners get stuck on "should I learn Excel or Python first?" — there's no shortage of advice, just no agreement on the order.
+
+## Solution
+
+A concrete 10-step sequence, Excel through communication & business thinking, with the argument that tools get you interviews but solving real problems builds the career.
+
+## Key Highlights
 
 - Excel → SQL → Python → Power BI/Tableau → Statistics → Cloud Basics → Data Warehousing & ETL → Machine Learning Basics → Projects & Portfolio → Communication & Business Thinking
 - Core argument: learning tools gets you interviews, solving real business problems builds the career
@@ -42,6 +50,12 @@ None yet.
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-07-05 | Initial LinkedIn publication |
+
+## Explore More Content
+
+- 📖 [The Data Analytics Journey](<../The Data Analytics Journey>) — what Data Analytics actually is, before the roadmap
+- 📝 [Data Analyst Careers Across 12 Industries](<../Data Analyst Careers Across 12 Industries>) — where this roadmap leads
+- 🚀 [Browse the full gallery ↗](../../README.md)
 
 ---
 

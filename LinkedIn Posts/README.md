@@ -17,6 +17,30 @@
 
 ---
 
+## 🔥 Featured Posts
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="<./Published Posts/HR Dashboard>"><img src="./Published Posts/HR Dashboard/thumbnail.jpg" width="200"></a>
+<br><b><a href="<./Published Posts/HR Dashboard>">HR Dashboard</a></b>
+<br><sub>Excel · Dashboard</sub>
+</td>
+<td width="33%" align="center">
+<a href="<./Published Posts/Excel Ultimate Guidebook>"><img src="./Published Posts/Excel Ultimate Guidebook/thumbnail.jpg" width="200"></a>
+<br><b><a href="<./Published Posts/Excel Ultimate Guidebook>">Excel Ultimate Guidebook</a></b>
+<br><sub>Excel · Guidebook · 21 pages</sub>
+</td>
+<td width="33%" align="center">
+<a href="<./Published Posts/AI and the Future of Data Analysts>"><img src="./Published Posts/AI and the Future of Data Analysts/thumbnail.jpg" width="200"></a>
+<br><b><a href="<./Published Posts/AI and the Future of Data Analysts>">AI and the Future of Data Analysts</a></b>
+<br><sub>Career</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 Dashboards
 
 <table>
