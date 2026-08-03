@@ -2,6 +2,8 @@
 
 ![Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-2026--07--28-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Guidebook-0A66C2?style=flat-square)
+
 **Published:** 2026-07-28 · **Platform:** LinkedIn · **Type:** PDF Guidebook / Visual Guide
 
 ## Overview

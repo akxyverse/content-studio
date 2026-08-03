@@ -2,6 +2,8 @@
 
 ![Slide 1 Preview](./assets/slide-01.jpg)
 
+![Published](https://img.shields.io/badge/Published-YYYY--MM--DD-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Carousel-6b7280?style=flat-square)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Format:** Carousel (multi-slide)
 
 ## Overview

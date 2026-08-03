@@ -2,6 +2,8 @@
 
 ![Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-2026--07--05-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Resource-8b5cf6?style=flat-square)
+
 **Published:** 2026-07-05 · **Platform:** LinkedIn · **Type:** Post
 
 ## Overview

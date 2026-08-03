@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-2026--08--03-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Dashboard-6d28d9?style=flat-square) ![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square)
+
 **Published:** 2026-08-03 · **Platform:** LinkedIn · **Tool:** Microsoft Excel
 
 ## Overview

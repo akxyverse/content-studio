@@ -2,6 +2,8 @@
 
 ![Cover Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-YYYY--MM--DD-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Guidebook-0A66C2?style=flat-square) ![Tool](https://img.shields.io/badge/Tool-<Tool>-217346?style=flat-square)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Format:** PDF Guidebook
 
 ## Overview

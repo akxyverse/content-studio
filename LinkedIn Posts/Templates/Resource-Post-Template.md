@@ -2,6 +2,8 @@
 
 ![Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-YYYY--MM--DD-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Resource-8b5cf6?style=flat-square)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Type:** Learning Resource
 
 ## Overview

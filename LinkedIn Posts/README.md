@@ -4,6 +4,15 @@ Every piece of content published on LinkedIn as part of my Data Analytics
 learning and content-creation journey — archived here as a self-contained
 "mini project" per post, not just a screenshot dump.
 
+## 📈 Content Statistics
+
+| | | | |
+|---|---|---|---|
+| 📌 **Total Posts** — 12 | 📊 **Dashboards** — 1 | 📚 **Guidebooks** — 4 | 📖 **Resources** — 2 |
+| 📝 **Career** — 4 | 💻 **Excel** — 1 | 🔥 **Latest** — [HR Dashboard](<./2026/08-August/2026-08-03_HR-Dashboard-Excel>), Aug 2026 | 🗓 **Earliest** — [The Data Analytics Journey](<./2026/07-July/2026-07-04_Data-Analytics-Journey>), Jul 2026 |
+
+Updated manually as new posts are archived — see [`INDEX.md`](./INDEX.md) for the full list.
+
 ## Structure
 
 Posts are filed by publish date: `<Year>/<Month>/<YYYY-MM-DD>_<Post-Slug>/`.
@@ -12,13 +21,9 @@ folder below.
 
 ## Categories
 
-- Excel Dashboards
-- SQL
-- Python Projects
-- Power BI Dashboards
-- Tableau Dashboards
-- Learning Resources / Guidebooks
-- Career Content
+In use today: `Dashboard`, `Guidebook`, `Career`, `Excel`, `Resource`. New
+categories (SQL, Python, Power BI, Tableau, etc.) get added here the first
+time a post actually needs one — not provisioned in advance.
 
 ## What each post folder contains
 

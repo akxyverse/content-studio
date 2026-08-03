@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](./thumbnail.jpg)
 
+![Published](https://img.shields.io/badge/Published-YYYY--MM--DD-success?style=flat-square) ![Category](https://img.shields.io/badge/Category-Dashboard-6d28d9?style=flat-square) ![Tool](https://img.shields.io/badge/Tool-<Excel_/_Power_BI_/_Tableau>-217346?style=flat-square)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Tool:** <Excel / Power BI / Tableau>
 
 ## Overview
