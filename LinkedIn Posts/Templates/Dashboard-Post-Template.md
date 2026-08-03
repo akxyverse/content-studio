@@ -1,10 +1,35 @@
 # <Dashboard Name>
 
+![Dashboard Preview](./thumbnail.jpg)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Tool:** <Excel / Power BI / Tableau>
 
-<One or two sentences on what the dashboard does and the business problem it solves.>
+## Overview
 
-## Contents
+<One or two sentences on what the dashboard does.>
+
+## Business Problem
+
+<What question or pain point this dashboard answers.>
+
+## Solution
+
+<How the dashboard solves it — approach, not just a feature list.>
+
+## Key Features
+
+- <KPI cards / visualizations / interactive features>
+
+## Key Insights
+
+- <Insight 1>
+- <Insight 2>
+
+## Skills Demonstrated
+
+<Comma or bullet list of skills/tools>
+
+## Repository Contents
 
 | File | What it is |
 |---|---|
@@ -18,14 +43,13 @@
 
 <!-- Omit any row above with nothing genuine behind it — don't fabricate a file or link that doesn't exist. -->
 
-## Key Insights
+## Related LinkedIn Post
 
-- <Insight 1>
-- <Insight 2>
+[View the published post ↗](<linkedin-url>)
 
-## Skills Applied
+## Related Repository
 
-<Comma or bullet list of skills/tools>
+<Link to the project repo if the source lives elsewhere, or "None yet".>
 
 ## Related Content
 

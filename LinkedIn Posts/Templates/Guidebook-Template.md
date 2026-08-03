@@ -1,10 +1,23 @@
 # <Guidebook Name>
 
+![Cover Preview](./thumbnail.jpg)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Format:** PDF Guidebook
+
+## Overview
 
 <One or two sentences on what the guide covers and who it's for.>
 
-## Contents
+## What's Inside
+
+- <Section/topic 1>
+- <Section/topic 2>
+
+## Skills / Topics Covered
+
+<Comma or bullet list>
+
+## Repository Contents
 
 | File | What it is |
 |---|---|
@@ -17,10 +30,13 @@
 
 <!-- Omit any row above with nothing genuine behind it — don't fabricate a file or link that doesn't exist. -->
 
-## What's Inside
+## Related LinkedIn Post
 
-- <Section/topic 1>
-- <Section/topic 2>
+[View the published post ↗](<linkedin-url>)
+
+## Related Repository
+
+<Link to the project repo if the guide lives elsewhere, or "None yet".>
 
 ## Related Content
 

@@ -1,10 +1,23 @@
 # <Carousel Title>
 
+![Slide 1 Preview](./assets/slide-01.jpg)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Format:** Carousel (multi-slide)
+
+## Overview
 
 <One or two sentences on what the carousel teaches or covers.>
 
-## Contents
+## Slide Summary
+
+1. <Slide 1 topic>
+2. <Slide 2 topic>
+
+## Skills / Topics Covered
+
+<Comma or bullet list>
+
+## Repository Contents
 
 | File | What it is |
 |---|---|
@@ -16,10 +29,13 @@
 
 <!-- Omit any row above with nothing genuine behind it — don't fabricate a file or link that doesn't exist. -->
 
-## Slide Summary
+## Related LinkedIn Post
 
-1. <Slide 1 topic>
-2. <Slide 2 topic>
+[View the published post ↗](<linkedin-url>)
+
+## Related Repository
+
+<Link to the project repo if relevant, or "None yet".>
 
 ## Related Content
 

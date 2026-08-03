@@ -1,10 +1,18 @@
 # <Resource Name>
 
+![Preview](./thumbnail.jpg)
+
 **Published:** YYYY-MM-DD · **Platform:** LinkedIn · **Type:** Learning Resource
+
+## Overview
 
 <One or two sentences on what the resource is and why it's useful.>
 
-## Contents
+## Skills / Topics Covered
+
+<Comma or bullet list>
+
+## Repository Contents
 
 | File | What it is |
 |---|---|
@@ -16,6 +24,14 @@
 | `metadata.json` | Structured metadata |
 
 <!-- Omit any row above with nothing genuine behind it — don't fabricate a file or link that doesn't exist. -->
+
+## Related LinkedIn Post
+
+[View the published post ↗](<linkedin-url>)
+
+## Related Repository
+
+<Link to the project repo if relevant, or "None yet".>
 
 ## Related Content
 

@@ -24,20 +24,21 @@ folder below.
 
 | File | Purpose |
 |---|---|
-| `README.md` | Overview of the post/project, with Key Insights, Skills Applied, Related Content, and Version History |
-| `linkedin-post.md` | The exact original post text |
+| `README.md` | Project documentation — Overview, Business Problem, Solution, Key Features, Skills Demonstrated, Repository Contents, Related LinkedIn Post, Related Repository, Version History. **Not** a copy of the LinkedIn post text — the thumbnail displays inline at the top |
+| `linkedin-post.md` | The exact original post text, kept separately from the README |
 | `linkedin-url.txt` | Link to the live LinkedIn post |
 | `hashtags.md` | Hashtags used |
 | `metadata.json` | Structured metadata (title, date, tool, category, tags) |
-| `thumbnail.jpg` | The visual shared in the post — consistent filename across every post, easy to script against |
+| `thumbnail.jpg` | The visual shared in the post — consistent filename across every post, displayed inline in the README |
 | `Source Files/` | Original workbook, dataset, PDF, or notes — wherever the source file exists |
 | `comments.md` (optional) | Notable comments worth keeping |
 
 Not every field will exist for every post — only what's genuinely on file
 gets included. A missing source file is noted in the post's README, never
-faked. Same for `metadata.json`'s optional fields (e.g. `difficulty`) and a
-README's Related Content section — left out rather than filled with a
-guess or a link to something that doesn't actually exist in this archive.
+faked. Same for `metadata.json`'s optional fields (e.g. `difficulty`), a
+README's Related Repository/Related Content sections, and the archive as a
+whole: an entry only gets created once the post's actual URL has been
+fetched and verified — never backfilled from memory or assumption.
 
 ## Other folders here
 
