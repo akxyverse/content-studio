@@ -1,54 +1,174 @@
-# LinkedIn Posts
+<div align="center">
 
-Every piece of content published on LinkedIn as part of my Data Analytics
-learning and content-creation journey — archived here as a self-contained
-"mini project" per post, not just a screenshot dump.
+# 🚀 LinkedIn Content Library
 
-## 📈 Content Statistics
+**Every post I've published on LinkedIn, browsable by what it actually is — not by when it happened.**
+
+</div>
+
+<br>
+
+## 📈 At a Glance
 
 | | | | |
 |---|---|---|---|
 | 📌 **Total Posts** — 12 | 📊 **Dashboards** — 1 | 📚 **Guidebooks** — 4 | 📖 **Resources** — 2 |
 | 📝 **Career** — 4 | 💻 **Excel** — 1 | 🔥 **Latest** — [HR Dashboard](<./2026/08-August/2026-08-03_HR-Dashboard-Excel>), Aug 2026 | 🗓 **Earliest** — [The Data Analytics Journey](<./2026/07-July/2026-07-04_Data-Analytics-Journey>), Jul 2026 |
 
-Updated manually as new posts are archived — see [`INDEX.md`](./INDEX.md) for the full list.
+---
 
-## Structure
+## 📊 Dashboards
 
-Posts are filed by publish date: `<Year>/<Month>/<YYYY-MM-DD>_<Post-Slug>/`.
-Browse by date in [`INDEX.md`](./INDEX.md), or drill straight into a year/month
-folder below.
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./2026/08-August/2026-08-03_HR-Dashboard-Excel>"><img src="./2026/08-August/2026-08-03_HR-Dashboard-Excel/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
 
-## Categories
+**[HR Dashboard](<./2026/08-August/2026-08-03_HR-Dashboard-Excel>)**
+<br>Interactive Excel dashboard turning employee salary data into decision-ready KPIs — payroll, headcount, salary range, filterable by department and city.
+<br>`Excel` · Aug 2026
 
-In use today: `Dashboard`, `Guidebook`, `Career`, `Excel`, `Resource`. New
-categories (SQL, Python, Power BI, Tableau, etc.) get added here the first
-time a post actually needs one — not provisioned in advance.
+</td>
+</tr>
+</table>
 
-## What each post folder contains
+## 📚 Guidebooks
 
-| File | Purpose |
-|---|---|
-| `README.md` | Project documentation — Overview, Business Problem, Solution, Key Features, Skills Demonstrated, Repository Contents, Related LinkedIn Post, Related Repository, Version History. **Not** a copy of the LinkedIn post text — the thumbnail displays inline at the top |
-| `linkedin-post.md` | The exact original post text, kept separately from the README |
-| `linkedin-url.txt` | Link to the live LinkedIn post |
-| `hashtags.md` | Hashtags used |
-| `metadata.json` | Structured metadata (title, date, tool, category, tags) |
-| `thumbnail.jpg` | The visual shared in the post — consistent filename across every post, displayed inline in the README |
-| `Source Files/` | Original workbook, dataset, PDF, or notes — wherever the source file exists |
-| `comments.md` (optional) | Notable comments worth keeping |
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-27_Excel-Ultimate-Guidebook>"><img src="./2026/07-July/2026-07-27_Excel-Ultimate-Guidebook/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
 
-Not every field will exist for every post — only what's genuinely on file
-gets included. A missing source file is noted in the post's README, never
-faked. Same for `metadata.json`'s optional fields (e.g. `difficulty`), a
-README's Related Repository/Related Content sections, and the archive as a
-whole: an entry only gets created once the post's actual URL has been
-fetched and verified — never backfilled from memory or assumption.
+**[Excel Ultimate Guidebook](<./2026/07-July/2026-07-27_Excel-Ultimate-Guidebook>)**
+<br>21-page handwritten-style guide, Excel basics through AI features (Copilot, Analyze Data).
+<br>`Excel` · 21 pages · Jul 2026 · [Full guide on GitHub ↗](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Ultimate%20Guidebook)
 
-## Other folders here
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-18_Excel-Syllabus>"><img src="./2026/07-July/2026-07-18_Excel-Syllabus/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
 
-- [`Templates/`](./Templates) — starting structure for new post types
-- [`Assets/`](./Assets) — shared logos/icons/branding used across posts
+**[Excel Syllabus](<./2026/07-July/2026-07-18_Excel-Syllabus>)**
+<br>38-page handwritten Excel syllabus — a personal structured self-study checklist, basics through VBA & dynamic arrays.
+<br>`Excel` · 38 pages · Jul 2026 · [Full guide on GitHub ↗](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Syllabus%20Notebook)
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-17_Excel-Roadmap-Guide>"><img src="./2026/07-July/2026-07-17_Excel-Roadmap-Guide/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Excel Roadmap Guide](<./2026/07-July/2026-07-17_Excel-Roadmap-Guide>)**
+<br>6-page structured Excel roadmap — what to learn next, not just what to learn.
+<br>`Excel` · 6 pages · Jul 2026 · [Full guide on GitHub ↗](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide)
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-28_Data-Analyst-Workflow>"><img src="./2026/07-July/2026-07-28_Data-Analyst-Workflow/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Data Analyst Workflow](<./2026/07-July/2026-07-28_Data-Analyst-Workflow>)**
+<br>Visual guide to the complete 8-step Data Analyst workflow — Ask → Pull → Clean → Explore → Analyze → Visualize → Interpret → Communicate.
+<br>Jul 2026 · [Full guide on GitHub ↗](https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics/Guidebooks/Data%20Analyst%20Workflow%20Guidebook)
+
+</td>
+</tr>
+</table>
+
+## 📝 Career
+
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-16_AI-and-the-Future-of-Data-Analysts>"><img src="./2026/07-July/2026-07-16_AI-and-the-Future-of-Data-Analysts/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[AI and the Future of Data Analysts](<./2026/07-July/2026-07-16_AI-and-the-Future-of-Data-Analysts>)**
+<br>AI won't replace Data Analysts — but analysts who use AI will outperform those who don't.
+<br>Jul 2026 · [Read the expanded article ↗](../Articles/Career/AI-and-the-Future-of-Data-Analysts.md)
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-13_Data-Analyst-Careers-Across-12-Industries>"><img src="./2026/07-July/2026-07-13_Data-Analyst-Careers-Across-12-Industries/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Data Analyst Careers Across 12 Industries](<./2026/07-July/2026-07-13_Data-Analyst-Careers-Across-12-Industries>)**
+<br>Where you can actually build a Data Analyst career — from Banking to Government, 12 industries mapped.
+<br>Jul 2026 · [Read the expanded article ↗](../Articles/Career/Data-Analyst-Careers-Across-12-Industries.md)
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-12_Data-Roles-Beyond-Data-Analyst>"><img src="./2026/07-July/2026-07-12_Data-Roles-Beyond-Data-Analyst/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Data Roles Beyond Data Analyst](<./2026/07-July/2026-07-12_Data-Roles-Beyond-Data-Analyst>)**
+<br>Data Analyst, BI Analyst, Data Scientist, Data Engineer, Data Architect — 5 roles, 5 different jobs.
+<br>Jul 2026 · [Read the expanded article ↗](../Articles/Career/Data-Roles-Beyond-Data-Analyst.md)
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-08_5-Data-Analytics-Myths>"><img src="./2026/07-July/2026-07-08_5-Data-Analytics-Myths/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[5 Data Analytics Myths You Should Stop Believing](<./2026/07-July/2026-07-08_5-Data-Analytics-Myths>)**
+<br>Excel + SQL go further than you think. Projects beat certificates.
+<br>Jul 2026 · [Read the expanded article ↗](../Articles/Career/5-Data-Analytics-Myths-You-Should-Stop-Believing.md)
+
+</td>
+</tr>
+</table>
+
+## 📖 Resources
+
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-05_Data-Analyst-Learning-Roadmap>"><img src="./2026/07-July/2026-07-05_Data-Analyst-Learning-Roadmap/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Data Analyst Learning Roadmap](<./2026/07-July/2026-07-05_Data-Analyst-Learning-Roadmap>)**
+<br>A practical, ordered learning path — Excel → SQL → Python → BI tools → Statistics → Projects.
+<br>Jul 2026
+
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-04_Data-Analytics-Journey>"><img src="./2026/07-July/2026-07-04_Data-Analytics-Journey/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[The Data Analytics Journey](<./2026/07-July/2026-07-04_Data-Analytics-Journey>)**
+<br>What Data Analytics actually is — the 5-step journey from raw data to better decisions.
+<br>Jul 2026
+
+</td>
+</tr>
+</table>
+
+## 💻 Excel Learning Log
+
+<table>
+<tr>
+<td width="30%" align="center"><a href="<./2026/07-July/2026-07-10_Day02-Excel-Functions>"><img src="./2026/07-July/2026-07-10_Day02-Excel-Functions/thumbnail.jpg" width="220"></a></td>
+<td valign="top">
+
+**[Day 02 — Excel Functions](<./2026/07-July/2026-07-10_Day02-Excel-Functions>)**
+<br>10 core Excel functions practiced — SUM through XLOOKUP and INDEX+MATCH.
+<br>`Excel` · Jul 2026
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akxyverse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+
+<sub>Full chronological list: [`INDEX.md`](./INDEX.md) · For contributors/maintainers: [structure & templates](<./Templates/README.md>)</sub>
 
 ---
 

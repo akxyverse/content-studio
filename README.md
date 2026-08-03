@@ -78,69 +78,71 @@ A repeatable idea → draft → publish structure you can copy.
 
 ---
 
-## 🎞️ The Production Pipeline
-
-*Every piece of content moves through the same four stages — like a real editorial workflow.*
+## 🔥 Featured Content
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 1️⃣ Idea
-📥 [`Content Ideas`](<./Content Ideas>)
-
-Backlog of raw ideas, unfiltered
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 2️⃣ Draft
-📝 [`LinkedIn Posts`](<./LinkedIn Posts>) · [`Articles`](./Articles) · [`Blogs`](./Blogs) · [`Tutorials`](./Tutorials)
-
-Using [`Content Templates`](<./Content Templates>) as the starting structure
+**📊 HR Dashboard**
+<br>Excel dashboard turning employee salary data into decision-ready KPIs.
+<br>[View →](<./LinkedIn Posts/2026/08-August/2026-08-03_HR-Dashboard-Excel>)
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 3️⃣ Visual
-🎨 [`Images`](./Images) · [`Banners`](./Banners) · [`Thumbnails`](./Thumbnails)
-
-Built with the ecosystem's shared visual language
+**📗 Excel Ultimate Guidebook**
+<br>21-page handwritten-style guide, Excel basics through AI features.
+<br>[View →](<./LinkedIn Posts/2026/07-July/2026-07-27_Excel-Ultimate-Guidebook>)
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 4️⃣ Publish
-🚀 [`GitHub Content`](<./GitHub Content>)
-
-Ships to LinkedIn, GitHub, or wherever it's meant for
+**🤖 AI and the Future of Data Analysts**
+<br>Why AI won't replace analysts — but analysts who use AI will win.
+<br>[Read Article →](./Articles/Career/AI-and-the-Future-of-Data-Analysts.md)
 
 </td>
 </tr>
 </table>
 
-## 🎙️ Studio Equipment (Content Formats)
+## 📂 Content Categories
 
-| Format | Folder | Purpose |
+| Category | Where | What's There |
 |---|---|---|
-| 💼 LinkedIn Posts | [`LinkedIn Posts`](<./LinkedIn Posts>) | Permanent, dated archive of every published post — one self-contained mini-project per post (source file, image, post text, URL, metadata) |
-| 📰 Articles | [`Articles`](./Articles) | Long-form deep dives, organized by subject — a curated subset of posts expanded into proper knowledge pieces |
-| ✍️ Blogs | [`Blogs`](./Blogs) | Narrative, personal-voice pieces |
-| 🎓 Tutorials | [`Tutorials`](./Tutorials) | Step-by-step, teaching-focused |
-| 🐙 GitHub Content | [`GitHub Content`](<./GitHub Content>) | Profile README drafts, repo write-ups |
+| 📊 Dashboards | [`LinkedIn Posts`](<./LinkedIn Posts>) | 1 published |
+| 📚 Guidebooks | [`LinkedIn Posts`](<./LinkedIn Posts>) | 4 published — Excel Roadmap, Syllabus, Ultimate Guidebook, Data Analyst Workflow |
+| 📝 Career | [`Articles/Career`](./Articles/Career) + [`LinkedIn Posts`](<./LinkedIn Posts>) | 4 expanded articles, 4 archived posts |
+| 📖 Resources | [`LinkedIn Posts`](<./LinkedIn Posts>) | 2 published |
+| ✍️ Blogs / 🎓 Tutorials / 🐙 GitHub Content | *(empty scaffolding)* | Populated as real pieces move through the pipeline |
 
-**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is the permanent record of everything published — organized `<Year>/<Month>/<Date>_<Slug>/`, indexed in [`LinkedIn Posts/INDEX.md`](<./LinkedIn Posts/INDEX.md>), every post archived as-is. Some posts are worth more than an archive entry — those get substantially rewritten (not copied) into `Articles/<Subject>/`, with the original graphics carried over, as a deeper knowledge piece. Every article started as a LinkedIn post; not every LinkedIn post becomes an article.
+Full browsable gallery: **[LinkedIn Posts →](<./LinkedIn Posts>)**
 
-## 🎯 How to Use This Repository
+## 🧭 Quick Navigation
 
-1. **Got an idea?** It starts in [`Content Ideas`](<./Content Ideas>) before anything gets drafted — nothing skips the pipeline.
-2. **Writing something?** Pick the format from Studio Equipment above, use [`Content Templates`](<./Content Templates>) as the starting structure.
-3. **Need visuals?** [`Banners`](./Banners), [`Thumbnails`](./Thumbnails), and [`Images`](./Images) hold the graphics — same brand language as every banner across this ecosystem.
-4. **Looking for finished knowledge articles?** Go straight to [`Articles`](./Articles) — organized by subject, not by which platform they started on.
+- 🚀 **[Browse the LinkedIn Content Library](<./LinkedIn Posts>)** — every published post, by category
+- 📰 **[Read the Articles](./Articles)** — long-form pieces expanded from posts
+- 💡 **[Content Ideas](<./Content Ideas>)** — what's queued up next
 
-## 🟢 Status
+## 🆕 Latest Updates
 
-🟢 [`Articles`](./Articles) has real content — 4 Career articles, rewritten from LinkedIn posts with the original graphics included. 🟢 [`LinkedIn Posts`](<./LinkedIn Posts>) has 12 posts archived (Jul–Aug 2026), spanning Career, Excel, Guidebook, and Resource content. Everything else in the pipeline is still empty scaffolding, populated as real pieces move through it.
+| What | Title | Date |
+|---|---|---|
+| LinkedIn Post | [HR Dashboard](<./LinkedIn Posts/2026/08-August/2026-08-03_HR-Dashboard-Excel>) | Aug 2026 |
+| Article | [AI and the Future of Data Analysts](./Articles/Career/AI-and-the-Future-of-Data-Analysts.md) | Jul 2026 |
+
+## 🗂 Repository Map
+
+*How content moves through this repo — idea → draft → visual → publish.*
+
+| Stage | Folder | Purpose |
+|---|---|---|
+| 💡 Idea | [`Content Ideas`](<./Content Ideas>) | Backlog of raw ideas, unfiltered |
+| 📝 Draft | [`LinkedIn Posts`](<./LinkedIn Posts>) · [`Articles`](./Articles) · [`Blogs`](./Blogs) · [`Tutorials`](./Tutorials) | Using [`Content Templates`](<./Content Templates>) as the starting structure |
+| 🎨 Visual | [`Images`](./Images) · [`Banners`](./Banners) · [`Thumbnails`](./Thumbnails) | Shared visual language across the ecosystem |
+| 🚀 Publish | [`GitHub Content`](<./GitHub Content>) | Ships to LinkedIn, GitHub, or wherever it's meant for |
+
+**LinkedIn Posts vs. Articles:** `LinkedIn Posts/` is the permanent record of everything published — every post archived as-is, browsable by category. Some posts are worth more than an archive entry — those get substantially rewritten (not copied) into `Articles/<Subject>/`, with the original graphics carried over, as a deeper knowledge piece. Every article started as a LinkedIn post; not every LinkedIn post becomes an article.
 
 ## ➡️ Recommended Next Repository
 
